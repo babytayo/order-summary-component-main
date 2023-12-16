@@ -1,0 +1,17 @@
+/*@use "_var";*/
+/*@forward "_var";*/
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-size: arial;
+  background: hsl(245, 75%, 52%);
+}
+
+h1 {
+  color: red;
+}/*# sourceMappingURL=main.css.map */

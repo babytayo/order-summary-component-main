@@ -1,0 +1,16 @@
+/*@use "_var";*/
+/*@forward "_var";*/
+
+@import "_var";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: arial;
+  background: $top_bg_color;
+}
+
+@use "_header";
